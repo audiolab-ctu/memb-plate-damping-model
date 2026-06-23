@@ -101,9 +101,10 @@ Reference data from COMSOL Multiphysics are included as text files in the `Comso
 
 If you use this code, please cite:
 
-Honzik et al.,
-*Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening*,
-Journal of Sound and Vibration, 2026.
+**Honzík et al., Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening,
+Journal of Sound and Vibration, 642, 119931 (2026).**
+
+URL: https://doi.org/10.1016/j.jsv.2026.119931
 
 ---
 
