@@ -445,7 +445,7 @@ def ximean_LEM(R_modes, R, ms, E, nu, D, T, hp, p_inc, c0, Rh, Lh, hg, hc, Rc, r
 
         Zmove = (Zmemb1*ZCinf2)/(Zmemb1+ZCinf2) # membrane mechanical impedance
     else:
-        #Plate lumped elements according to [28]
+        #Plate lumped elements according to [29]
         alph = 50.265
         bet = 5.78
         c1 = (1-nu**2)*R**2/(alph*E*hp**3) #plate compliance
