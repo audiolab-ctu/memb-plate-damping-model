@@ -2,7 +2,15 @@
 
 This repository contains the Python implementation of the analytical method proposed in the article:
 
-**Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening.**
+Honzik et al.,
+8*Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening,
+Journal of Sound and Vibration, 642, 119931 (2026).**
+
+URL: https://doi.org/10.1016/j.jsv.2026.119931
+
+If you use this code or the accompanying data in your own work, please cite the article above.
+
+##Contents
 
 The repository includes three Python scripts and several text files. The text files provide reference numerical results exported from COMSOL Multiphysics and are stored in the `Comsol_data` directory. The Python scripts are:
 
