@@ -2,7 +2,7 @@
 
 This repository contains the Python implementation of the analytical method proposed in the article:
 
-**Honzik et al., Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening,
+**Honzík et al., Analytical Modeling of MEMS Transducers with Circular Membranes and Plates Damped by an Air Gap with Central Opening,
 Journal of Sound and Vibration, 642, 119931 (2026).**
 
 URL: https://doi.org/10.1016/j.jsv.2026.119931
