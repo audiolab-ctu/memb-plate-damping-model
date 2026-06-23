@@ -9,7 +9,7 @@ URL: https://doi.org/10.1016/j.jsv.2026.119931
 
 If you use this code or the accompanying data in your own work, please cite the article above.
 
-##Contents
+## Contents
 
 The repository includes three Python scripts and several text files. The text files provide reference numerical results exported from COMSOL Multiphysics and are stored in the `Comsol_data` directory. The Python scripts are:
 
